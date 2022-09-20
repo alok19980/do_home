@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67252505978",
+    "project_id": "dohomes-6792e",
+    "storage_bucket": "dohomes-6792e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67252505978:android:dcb6ca9012ded8fe309ac3",
+        "android_client_info": {
+          "package_name": "com.example.do_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67252505978-mfisdb8f1g2l45ithbdnc707ba135glr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUW5Aku9-OBAbfntTGwMtdzSeIoqPRz58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67252505978-mfisdb8f1g2l45ithbdnc707ba135glr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

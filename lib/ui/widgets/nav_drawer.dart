@@ -25,11 +25,7 @@ class NavDrawer extends StatelessWidget {
             title: const Text('Welcome'),
             onTap: () => {},
           ),
-          ListTile(
-            leading: const Icon(Icons.verified_user),
-            title: const Text('Profile'),
-            onTap: () => {Navigator.of(context).pop()},
-          ),
+          
           ListTile(
             leading: const Icon(Icons.settings),
             title: const Text('Settings'),
@@ -37,12 +33,12 @@ class NavDrawer extends StatelessWidget {
           ),
           ListTile(
             leading: const Icon(Icons.border_color),
-            title: const Text('Feedback'),
+            title: const Text('Shopping List'),
             onTap: () => {Navigator.of(context).pop()},
           ),
           ListTile(
-            leading: const Icon(Icons.exit_to_app),
-            title: const Text('Logout'),
+            leading: const Icon(Icons.border_color),
+            title: const Text('Kitchen Inventory'),
             onTap: () => {Navigator.of(context).pop()},
           ),
         ],
